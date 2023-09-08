@@ -1,0 +1,13 @@
+*.py[cod]
+/.idea
+/.vscode
+/Param.egg-info
+/log
+*.log
+*.log.*
+*.out
+*.conf
+__pycache__/
+*.sh
+*.ipc
+*sample.py

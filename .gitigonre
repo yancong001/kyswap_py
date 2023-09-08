@@ -11,3 +11,4 @@ __pycache__/
 *.sh
 *.ipc
 *sample.py
+./.idea

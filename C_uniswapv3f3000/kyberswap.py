@@ -53,7 +53,7 @@ class Kyberswapv3f3000ApiTrade():
                  uniswapv3_rpc_url=None
                  ):
         self.provider = uniswapv3_rpc_url
-        self.market_info_map = MARKET_INFO_DICT['uniswapv3']
+        self.market_info_map = MARKET_INFO_DICT['kyberswapv3']
         self.V3_Factory_ABI = json.load(
             open(os.path.abspath(f"{os.path.dirname(os.path.abspath(__file__))}/abi/" + "UniswapV3Factory.json")))[
             "abi"]

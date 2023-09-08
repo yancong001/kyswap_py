@@ -1,5 +1,5 @@
 MARKET_INFO_DICT = {
-    'uniswapv3': {
+    'kyberswapv3': {
         'ETH': {'id': '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', 'decimals': 18},
         'KNC': {'id': '0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202', 'decimals': 18},
         # 'ETH': {'id': '0xc000000000000000000000000000000000000000', 'decimals': 18},
@@ -198,6 +198,7 @@ MARKET_INFO_DICT = {
         'MEDICAID': {'id': '0xff4ac1c563093c5be6a3a13d3c99aafda159cefa', 'decimals': 18},
         'AMP': {'id': '0xff20817765cb7f73d4bde2e66e067e58d11095c2', 'decimals': 18},
         'ALI': {'id': '0xff155332c87a01de4a7ab6a20237e1598b6922f9', 'decimals': 18},
+
 
         'ETH_KNC': {'id': '0x1a262266364bdb34df4c1337ad5f8b9b57182251', 'feeTier': 20000},
         'ETH_USDT': {'id': '0xf138462c76568cdfd77c6eb831e973d6963f2006', 'feeTier': 3000},
